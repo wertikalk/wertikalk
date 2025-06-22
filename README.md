@@ -4,7 +4,7 @@ Innovation Enthusiast focusing on Blockchain Privacy R&D.
 
 ![Tesla](./assets/cover.png)
 
-[![Wertikalk](https://img.shields.io/badge/Wertikalk-ffffff?style=for-the-badge&logo=Wertikalk)](https://hardhat.org/)
+[![Wertikalk](https://img.shields.io/badge/Wertikalk-ffffff?style=for-the-badge&logo=Wertikalk)](https://wertikalk.com/)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wertikalk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milos-bojinovic-765010202/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wertikalk)
